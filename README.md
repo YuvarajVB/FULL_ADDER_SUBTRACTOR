@@ -37,11 +37,28 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+FULL ADDER:
+![image](https://github.com/YuvarajVB/FULL_ADDER_SUBTRACTOR/assets/151488375/2bc51c8e-830c-4c4c-8ffa-1fd9fea31337)
+FULL SUBTRACTOR:
+![image](https://github.com/YuvarajVB/FULL_ADDER_SUBTRACTOR/assets/151488375/22f4c5fa-1fa4-4d32-aa0c-451a8feff265)
 
 **Procedure**
 
 Write the detailed procedure here
+```
+**Full Adder:**
+1.Open Quartus II and create a new project.
+2.Use schematic design entry to draw the full adder circuit. 
+3.The circuit consists of XOR, AND, and OR gates. 
+4.Compile the design, verify its functionality through simulation. 
+5.Implement the design on the target device and program it.
 
+**Full Subtractor:** 
+1.Follow the same steps as for the full adder. 
+2.Draw the full subtractor circuit using schematic design. 
+3.The circuit includes XOR, AND, OR gates to perform subtraction. 
+4.Compile, simulate, implement, and program the design similarly to the full adder.
+```
 **Program:**
 ```
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: YUVARAJ V RegisterNumber: 212223230252
