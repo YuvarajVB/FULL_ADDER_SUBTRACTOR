@@ -38,8 +38,12 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 FULL ADDER:
+
+
 ![image](https://github.com/YuvarajVB/FULL_ADDER_SUBTRACTOR/assets/151488375/2bc51c8e-830c-4c4c-8ffa-1fd9fea31337)
 FULL SUBTRACTOR:
+
+
 ![image](https://github.com/YuvarajVB/FULL_ADDER_SUBTRACTOR/assets/151488375/22f4c5fa-1fa4-4d32-aa0c-451a8feff265)
 
 **Procedure**
